@@ -85,6 +85,8 @@ BPW34 Photodiode
 LM339 Comparator
 
 N7000 MOSFET
+
+
 ---
 
 
@@ -95,6 +97,8 @@ Transmission rate: 4 bits per second
 Delay per bit: 0.25 seconds
 
 Example: 10x10 image (100 bits) transmitted in approx. 25 seconds
+
+
 ---
 
 
