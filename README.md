@@ -112,24 +112,6 @@ Arduino to MOSFET and LED
 
 Photodiode to comparator and Raspberry Pi
 
----
-
-📦 Software Requirements
-
-Install:
-
-pip install opencv-python numpy pyserial RPi.GPIO
-
-▶️ Run the Project
-
-Transmitter:
-
-python send_image.py
-
-Receiver (on Raspberry Pi):
-
-python receive_image.py
-
 
 ---
 
